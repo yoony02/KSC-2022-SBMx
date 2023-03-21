@@ -12,8 +12,8 @@ Alleviating Popularity Bias in Session-based Recommendation Considering Long-tai
 
 
 ## Datasets
-The dataset name must be specified in the "--dataset" argument
-- [Yoochoose 1/64](https://www.kaggle.com/chadgostopp/recsys-challenge-2015) (using latest 1/64 fraction due to the amount of full dataset)
+The dataset name must be specified in the `--dataset` argument
+- [Yoochoose 1/64](https://www.kaggle.com/chadgostopp/recsys-challenge-2015) (using latest 1/64 fraction due to the amount of full dataset) <br>
 - [Diginetica](https://competitions.codalab.org/competitions/11161 #learn_the_details-data2)
 - [RetailRocket](https://www.kaggle.com/retailrocket/ecommerce-dataset)
 
@@ -40,5 +40,7 @@ python main.py \
 ## Citation
 Please cite our paper if you use the code:
 ```
-Heeyoon Yang, Jee-Hyong Lee.(2022).Alleviating Popularity Bias in Session-based Recommendation Considering Long-tail Distribution. 한국정보과학회 학술발표논문집,(),532-534.
+Heeyoon Yang, Jee-Hyong Lee.(2022). <br>
+Alleviating Popularity Bias in Session-based Recommendation Considering Long-tail Distribution. <br>
+한국정보과학회 학술발표논문집,(),532-534.
 ```
