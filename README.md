@@ -14,7 +14,7 @@ Alleviating Popularity Bias in Session-based Recommendation Considering Long-tai
 ## Datasets
 The dataset name must be specified in the `--dataset` argument
 - [Yoochoose 1/64](https://www.kaggle.com/chadgostopp/recsys-challenge-2015) - using latest 1/64 fraction due to the amount of full dataset
-- [Diginetica](https://competitions.codalab.org/competitions/11161 #learn_the_details-data2)
+- [Diginetica](https://competitions.codalab.org/competitions/11161#learn_the_details-data2)
 - [RetailRocket](https://www.kaggle.com/retailrocket/ecommerce-dataset)
 
 After downloaded the datasets, you can put them in the folder `Datasets/` and preprocess datasets by running `Datasets/preprocess_code/{dataset_name}.ipynb` below line. 
