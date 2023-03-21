@@ -38,9 +38,9 @@ python main.py \
 
 
 ## Citation
-Please cite our paper if you use the code:
+Please cite our paper if you use our code:
 ```
-Heeyoon Yang, Jee-Hyong Lee.(2022). <br>
-Alleviating Popularity Bias in Session-based Recommendation Considering Long-tail Distribution. <br>
+Heeyoon Yang, Jee-Hyong Lee.(2022).
+Alleviating Popularity Bias in Session-based Recommendation Considering Long-tail Distribution.
 한국정보과학회 학술발표논문집,(),532-534.
 ```
